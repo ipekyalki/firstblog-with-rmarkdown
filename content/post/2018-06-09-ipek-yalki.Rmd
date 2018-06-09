@@ -1,0 +1,13 @@
+---
+title: Ipek Yalki
+author: ''
+date: '2018-06-09'
+slug: ipek-yalki
+categories:
+  - blogdown R
+tags:
+  - blogdown
+  - rmarkdown
+---
+
+This is my first attempt of creating a blog with RMarkdown
